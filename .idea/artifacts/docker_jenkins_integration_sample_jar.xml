@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="docker-jenkins-integration-sample:jar">
+  <artifact type="jar" name="docker-jenkins-integration-sample:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/docker_jenkins_integration_sample_jar</output-path>
     <root id="archive" name="docker-jenkins-integration-sample.jar">
       <element id="module-output" name="docker-jenkins-integration-sample" />
